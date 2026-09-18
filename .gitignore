@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+bin/
+out/
+
+# VS Code
+.vscode/
+
+# Generated application data
+data/*.dat
+data/*.log
+data/*.lck
+
+# OS files
+.DS_Store
+Thumbs.db
